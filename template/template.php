@@ -16,6 +16,9 @@
         <nav class="menu">
             <?php navMenu(); ?>
         </nav>
+        <div>
+        <img src="images/excelente.gif">
+        </div>
     </header>
 
     <article>
