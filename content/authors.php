@@ -22,11 +22,8 @@
     <li></li>
     <li>Diego Andrades</li>
     <li></li>
-<<<<<<< HEAD
     <li>Juan A. Jimenez Rubia</li>
     <li></li>
-=======
     <li>monetelab</li>
->>>>>>> master
     <li></li>
 </ul>
