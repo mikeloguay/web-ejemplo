@@ -1,17 +1,14 @@
 <ul>
     Row 1
     <li>Ruben Rios</li>
-    <li></li>
     <li>Noelia</li>
     <li>LaMary</li>
-    <li></li>
     <li>Javier</li>
     <li>Jorge</li>
 </ul>
 <ul>
     Row 2
     <li>Gordo18051994</li>
-    <li></li>
     <li>José (Gallego)</li>
     <li>Zehio</li>
     <li>Francisco Trujillo</li>
