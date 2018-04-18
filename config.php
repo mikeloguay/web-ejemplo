@@ -8,12 +8,13 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'Simple PHP Website',
+        'name' => 'Proyecto de la clase',
         'nav_menu' => [
             '' => 'Home',
             'about-us' => 'About Us',
             'products' => 'Products',
             'contact' => 'Contact',
+            'authors' => 'Authors'
         ],
         'template_path' => 'template',
         'content_path' => 'content',
