@@ -6,7 +6,6 @@
     <li>LaMary</li>
     <li></li>
     <li>Javier</li>
-    <li></li>
     <li>Jorge</li>
 </ul>
 <ul>
