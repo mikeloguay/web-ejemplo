@@ -3,6 +3,7 @@
     <li>Ruben Rios</li>
     <li></li>
     <li>Noelia</li>
+    <li>LaMary</li>
     <li></li>
     <li>Javier</li>
     <li></li>
@@ -11,8 +12,13 @@
     Row 2
     <li></li>
     <li>José (Gallego)</li>
+<<<<<<< HEAD
     <li>Zeio</li>
     <li>Frankt</li>
+=======
+    <li>Zehio</li>
+    <li>Francisco Trujillo</li>
+>>>>>>> master
     <li></li>
 </ul>
 <ul>

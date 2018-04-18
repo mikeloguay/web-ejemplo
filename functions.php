@@ -19,7 +19,7 @@ function siteVersion()
 /**
  * Website navigation.
  */
-function navMenu($sep = ' | ')
+function navMenu($sep = '  ')
 {
     $nav_menu = '';
 
