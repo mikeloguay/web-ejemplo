@@ -1,7 +1,7 @@
 <ul>
     Row 1
     <li></li>
-    <li></li>
+    <li>Noelia</li>
     <li></li>
     <li>Javier</li>
     <li></li>
@@ -9,9 +9,9 @@
 <ul>
     Row 2
     <li></li>
+    <li>José (Gallego)</li>
     <li></li>
-    <li></li>
-    <li></li>
+    <li>Francisco Trujillo</li>
     <li></li>
 </ul>
 <ul>
