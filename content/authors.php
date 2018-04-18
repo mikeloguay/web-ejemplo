@@ -9,33 +9,17 @@
 <ul>
     Row 2
     <li>Gordo18051994</li>
-    <li>Jonas</li>
     <li>José (Gallego)</li>
-
     <li>Zehio</li>
     <li>Francisco Trujillo</li>
     <li>Jose Antonio Palomo</li>
-
-<<<<<<< Updated upstream
-    <li>Zeio</li>
-    <li>Francisco Trujillo</li>
-=======
-    <li></li>
     <li>Francisco Trujillo xD </li>
->>>>>>> Stashed changes
-    <li></li>
->>>>>>> Stashed changes
 </ul>
 <ul>
     Row 3
     <li></li>
-    <li>Diego Andrades</li>
-    <li></li>
-<<<<<<< Updated upstream
     <li>monetelab</li>
     <li></li>
-=======
-    <li></li>
+    <li>Diego Andrades</li>
     <li>Juanma Rojas</li>
->>>>>>> Stashed changes
 </ul>
