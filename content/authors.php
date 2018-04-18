@@ -13,7 +13,7 @@
     <li>José (Gallego)</li>
 <<<<<<< Updated upstream
     <li>Zehio</li>
-    <li>Francisco Trujillo</li>
+    <li>Frankt</li>
     <li>Jose Antonio Palomo</li>
 =======
 <<<<<<< Updated upstream
