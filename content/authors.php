@@ -12,7 +12,7 @@
     <li></li>
     <li>José (Gallego)</li>
     <li>Zeio</li>
-    <li>Francisco Trujillo</li>
+    <li>Frankt</li>
     <li></li>
 </ul>
 <ul>
