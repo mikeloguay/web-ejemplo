@@ -12,7 +12,7 @@
     Row 2
     <li></li>
     <li>José (Gallego)</li>
-    <li>Zeio</li>
+    <li>Zehio</li>
     <li>Francisco Trujillo</li>
     <li></li>
 </ul>
