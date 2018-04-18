@@ -9,9 +9,9 @@
 <ul>
     Row 2
     <li></li>
+    <li>José (Gallego)</li>
     <li></li>
-    <li></li>
-    <li></li>
+    <li>Francisco Trujillo</li>
     <li></li>
 </ul>
 <ul>
