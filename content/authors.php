@@ -3,6 +3,7 @@
     <li>Ruben Rios</li>
     <li></li>
     <li>Noelia</li>
+    <li>LaMary</li>
     <li></li>
     <li>Javier</li>
     <li></li>
@@ -12,7 +13,7 @@
     <li>Gordo18051994</li>
     <li></li>
     <li>José (Gallego)</li>
-    <li>Zeio</li>
+    <li>Zehio</li>
     <li>Francisco Trujillo</li>
     <li></li>
 </ul>
