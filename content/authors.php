@@ -4,14 +4,12 @@
     <li></li>
     <li>Noelia</li>
     <li>LaMary</li>
-    <li></li>
     <li>Javier</li>
     <li>Jorge</li>
 </ul>
 <ul>
     Row 2
     <li>Gordo18051994</li>
-    <li>Jonas</li>
     <li>José (Gallego)</li>
 <<<<<<< Updated upstream
     <li>Zehio</li>
