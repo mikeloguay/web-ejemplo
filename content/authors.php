@@ -31,8 +31,6 @@
     <li></li>
     <li>Diego Andrades</li>
     <li></li>
-    <li>Juan A. Jimenez Rubia</li>
-    <li></li>
 <<<<<<< Updated upstream
     <li>monetelab</li>
     <li></li>
