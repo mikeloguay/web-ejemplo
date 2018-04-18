@@ -18,7 +18,7 @@
     <li>Frankt</li>
 =======
     <li>Zehio</li>
-    <li>Francisco Trujillo</li>
+    <li>Frankt</li>
     <li>Jose Antonio Palomo</li>
 </ul>
 <ul>
