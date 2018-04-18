@@ -5,7 +5,13 @@
     <title><?php pageTitle(); ?> | <?php siteName(); ?></title>
     <style type="text/css">
         .wrap { max-width: 720px; margin: 50px auto; padding: 30px 40px; text-align: center; box-shadow: 0 4px 25px -4px #9da5ab; }
-        article { text-align: left; padding: 40px; line-height: 150%; }
+        article { text-align: left; padding: 40px; line-height: 150%;}
+
+        h2:hover {transform: rotate(-180deg); transition: 0.5s}
+        
+        body > div > header > nav > a {color:black; text-decoration: none; transition: 0.5s; padding: 20px }
+        body > div > header > nav > a:hover {font-size: 30px; color: red; }
+ 
     </style>
 </head>
 <body>
