@@ -1,4 +1,8 @@
+# Configuración de IntelliJ
 .idea/
+
+# Config de VS
 config_vs/
 
+# Copias de seguridad
 *.bak
