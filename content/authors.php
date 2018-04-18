@@ -18,6 +18,9 @@
 <ul>
     Row 3
     <li></li>
+    <li>Diego Andrades</li>
+    <li></li>
+<<<<<<< Updated upstream
     <li>monetelab</li>
     <li></li>
     <li>Diego Andrades</li>
