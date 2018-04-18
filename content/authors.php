@@ -6,7 +6,7 @@
     <li>LaMary</li>
     <li></li>
     <li>Javier</li>
-    <li></li>
+    <li>Jorge</li>
 </ul>
 <ul>
     Row 2
@@ -19,8 +19,7 @@
 =======
     <li>Zehio</li>
     <li>Francisco Trujillo</li>
->>>>>>> master
-    <li></li>
+    <li>Jose Antonio Palomo</li>
 </ul>
 <ul>
     Row 3
