@@ -19,7 +19,7 @@
     Row 3
     <li></li>
     <li>monetelab</li>
-    <li>Juan Antonio</li>
+    <li>Juan Antonio (Sr Ironía)XD</li>
     <li>Diego Andrades</li>
     <li>Juanma Rojas</li>
 </ul>
