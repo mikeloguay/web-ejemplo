@@ -10,7 +10,7 @@
 <ul>
     Row 2
     <li>Gordo18051994</li>
-    <li>José (Gallego)</li>
+    <li>José (Gallego). El que más mola del mundo</li>
     <li>Zehio</li>
     <li>Francisco Trujillo</li>
     <li>Jose Antonio Palomo</li>
