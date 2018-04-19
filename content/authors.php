@@ -4,6 +4,10 @@ Profesor: Miguel
     <li>Jorge. El Maderfaker!! </li>
     <li>Javier</li>
     <li>LaMary FrontEnd</li>
+=======
+    <li>JaviSCRIPT</li>
+    <li>LaMary</li>
+>>>>>>> rama-javi
     <li>Noelia</li>
     <li>Rubennnnnnnn</li>
 
