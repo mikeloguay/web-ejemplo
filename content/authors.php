@@ -12,7 +12,7 @@
     <li>Gordo18051994</li>
     <li>José (Gallego)</li>
     <li>Zehio</li>
-    <li>Francisco Trujillo</li>
+    <li><a href="https://github.com/FranTr">Francisco Trujillo</a></li>
     <li>Jose Antonio Palomo</li>
 </ul>
 <ul>
