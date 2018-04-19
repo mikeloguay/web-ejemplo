@@ -1,7 +1,7 @@
 Profesor: Miguel
 <ul>
     Row 1
-    <li>Jorge</li>
+    <li>Jorge. El Maderfaker!! </li>
     <li>Javier</li>
     <li>LaMary FrontEnd</li>
     <li>Noelia</li>
@@ -10,8 +10,8 @@ Profesor: Miguel
 </ul>
 <ul>
     Row 2
-    <li>Gordo18051994</li>
-    <li>José (Gallego). El que más mola del mundo</li>
+    <li>Hardcodeando</li>
+    <li>José (Gallego)</li>
     <li>Zehio</li>
     <li><a href="https://github.com/FranTr">Francisco Trujillo</a></li>
     <li>Jose Antonio Palomo</li>
