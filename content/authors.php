@@ -3,7 +3,7 @@
     <li>Jorge</li>
     <li>Javier</li>
     <li>LaMary</li>
-    <li>Noelia</li>
+    <li><strong>Noe</strong></li>
     <li>Rubennnnnnnn</li>
 
 </ul>
