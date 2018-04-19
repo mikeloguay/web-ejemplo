@@ -1,11 +1,16 @@
 Profesor: Miguel
 <ul>
     Row 1
+<<<<<<< HEAD
     <li>Jorge. El Maderfaker!! </li>
     <li>Javier</li>
     <li>LaMary FrontEnd</li>
     <li>JaviSCRIPT</li>
+=======
+    <li>Jorge</li>
+>>>>>>> rama-jorge
     <li>LaMary</li>
+    <li>Javier</li>
     <li>Noelia</li>
     <li>Rubennnnnnnn</li>
 
