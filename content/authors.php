@@ -2,7 +2,7 @@
     Row 1
     <li>Jorge</li>
     <li>Javier</li>
-    <li>LaMary</li>
+    <li>LaMary FrontEnd</li>
     <li>Noelia</li>
     <li>Rubennnnnnnn</li>
 
