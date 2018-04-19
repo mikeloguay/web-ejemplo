@@ -20,6 +20,6 @@
     <li></li>
     <li>monetelab</li>
     <li>Juan Antonio</li>
-    <li>Diego Andrades</li>
+    <li>Diego Andrades Márquez(desde mi rama)</li>
     <li>Juanma Rojas</li>
 </ul>
