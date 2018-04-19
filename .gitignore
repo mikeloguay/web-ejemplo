@@ -1,8 +1,19 @@
+<<<<<<< Updated upstream
 # Configuración de IntelliJ
+=======
+#Configuracion de IntelliJ
+>>>>>>> Stashed changes
 .idea/
 
 # Config de VS
 config_vs/
+<<<<<<< Updated upstream
 
 # Copias de seguridad
 *.bak
+=======
+.idea/
+
+
+*.bak
+>>>>>>> Stashed changes
