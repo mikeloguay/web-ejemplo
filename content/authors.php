@@ -3,7 +3,7 @@ Profesor: Miguel
     Row 1
     <li>Jorge</li>
     <li>Javier</li>
-    <li>LaMary</li>
+    <li>LaMary FrontEnd</li>
     <li>Noelia</li>
     <li>Rubennnnnnnn</li>
 
@@ -13,7 +13,7 @@ Profesor: Miguel
     <li>Hardcodeando</li>
     <li>José (Gallego)</li>
     <li>Zehio</li>
-    <li>Francisco Trujillo</li>
+    <li><a href="https://github.com/FranTr">Francisco Trujillo</a></li>
     <li>Jose Antonio Palomo</li>
 </ul>
 <ul>
